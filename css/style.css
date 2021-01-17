@@ -3,9 +3,7 @@ body, html {
   height: 100%;
   font-family: Apple Chancery, cursive;
   background: url("../images/white-wood.jpg") no-repeat fixed;
-  margin: 0 auto;
-  display: block;
-  text-align: center;
+  background-size: cover;
 }
 
 .container, h1 {
