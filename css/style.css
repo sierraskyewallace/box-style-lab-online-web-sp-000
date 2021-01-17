@@ -55,6 +55,10 @@ h4.indifferent {
   
 }
 
+h4.dubious {
+  background: linear-gradient(to right, #8B0000, #dd4444);
+}
+
 .dubious {
   border: 1px solid #aa2222;
   box-shadow: -1px 1px #aa2222, -2px 2px #aa2222, -3px 3px #aa2222, -4px 4px #aa2222, -5px 5px #aa2222;
