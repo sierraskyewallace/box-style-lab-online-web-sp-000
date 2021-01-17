@@ -13,11 +13,7 @@ body, html {
 }
 
 .amiable {
-  background: linear-gradient(
-    to right,
-    #118833,
-    #66ee88
-  );
+  background: linear-gradient(to right, #22aa44, #44cc66);
 }
 
 .indifferent {
