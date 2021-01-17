@@ -44,6 +44,11 @@ img:hover {
   border: 1px solid #aaaa00;
   box-shadow:  -1px 1px #aaaa00, -2px 2px #aaaa00, -3px 3px #aaaa00, -4px 4px #aaaa00, -5px 5px #aaaa00;
   background-color: #dddd22;
+  background: linear-gradient(
+    to right,
+    #770,
+    #aa0
+  
 }
 
 .dubious {
