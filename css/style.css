@@ -8,6 +8,8 @@ body, html {
   display: block;
   text-align: center;
   background-color: #666;
+  background: url("../images/white-wood.jpg") no-repeat fixed;
+  background-size: cover;
 }
 
 .container, h1 {
