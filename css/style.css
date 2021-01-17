@@ -84,3 +84,8 @@ h4.dubious {
   width: 300%;
   height: 300%;
 }
+
+img {
+  border: 1px solid;
+  box-sizing: border-box;
+}
