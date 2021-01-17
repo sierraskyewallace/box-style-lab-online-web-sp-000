@@ -4,6 +4,8 @@ body, html {
   font-family: Apple Chancery, cursive;
   background: url("../images/white-wood.jpg") no-repeat fixed;
   background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 
 .container, h1 {
